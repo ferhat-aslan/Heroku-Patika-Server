@@ -324,5 +324,5 @@
       ]
     }
   ],
-  "orders": [{ "user_id": 1, "orders": [{ "product_id": 1,"count":1 }] }]
+  "orders": [{ "user_id": 1, "orders": { "product_id": 1,"count":1 } }]
 }
