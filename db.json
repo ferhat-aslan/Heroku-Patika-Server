@@ -320,9 +320,9 @@
         "count": 145
       },
       "comments": [
-        { "username": "Ali", "comment": "çok iyi bir ürün herkese tavsiye ederim." }
+        {"id":1, "username": "Ali", "comment": "çok iyi bir ürün herkese tavsiye ederim." }
       ]
     }
   ],
-  "orders": [{ "user_id": 1, "orders": { "product_id": 1,"count":1 } }]
+  "orders": [{"id":1, "user_id": 1, "orders": { "product_id": 1,"count":1 } }]
 }
