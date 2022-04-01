@@ -5,21 +5,36 @@
       "firstname": "Jy",
       "lastname": "afpc",
       "email": "deneme@deneme.com",
-      "password": "123456"
+      "password": "123456",
+      "isAdmin":"false",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
     },
     {
       "firstname": "dfgdsg",
       "lastname": "sdgsdg",
       "email": "sdg@gdfg",
       "password": "sdfsdf",
-      "id": 2
+      "id": 2,
+      "isAdmin":"false",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
     },
     {
       "firstname": "test",
       "lastname": "test",
       "email": "test@test.com",
       "password": "12345",
-      "id": 3
+      "id": 3,
+      "isAdmin":"false",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+    },
+    {
+      "firstname": "admin",
+      "lastname": "admin",
+      "email": "admin@admin.com",
+      "password": "12345",
+      "id": 4,
+      "isAdmin":"true",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
     }
   ],
   "products": [
